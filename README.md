@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Building Bridges Between Development and Operations 🚀</p>
+<p align="left">FinOps & DevOps Engineer</p>
 
 ###
 
